@@ -25,6 +25,7 @@ public class Problema7 {
         int numero2 = 0;
         int resultado = 2;
         String cadena= "";
+        int total= 0;
 
         
         
@@ -39,10 +40,13 @@ public class Problema7 {
             
         numero2 = numero2 + 2; 
         resultado = resultado + 2; 
+        total = total + resultado;
         cadena = cadena + numero2 + "+ 2" + "= " + resultado + "\n";
-        System.out.println("Suma de los numeros \n" + cadena);
+        
             }
         }
+        System.out.println("Suma de los numeros \n" + cadena);
+        System.out.println("La suma total es: "+ total);
         
     }
     
