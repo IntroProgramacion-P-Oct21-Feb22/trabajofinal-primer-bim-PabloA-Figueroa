@@ -1,5 +1,5 @@
 # Trabajo Final del Primer Bimestre
-
+Miembros: Felipe Jimenez - Pablo Figueroa
 ## Actividades
 
 * Por cada problemáticas realizar las siguientes actividades
